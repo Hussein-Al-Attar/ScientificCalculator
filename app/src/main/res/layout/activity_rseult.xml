@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RseultActivity">
+
+    <TextView
+        android:id="@+id/textResult"
+        android:textColor="@color/black"
+        android:text="Result"
+        android:textSize="100dp"
+        android:autoSizeMaxTextSize="100dp"
+        android:autoSizeMinTextSize="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="147dp"
+        tools:layout_editor_absoluteX="174dp"
+        tools:layout_editor_absoluteY="33dp" />
+</LinearLayout>

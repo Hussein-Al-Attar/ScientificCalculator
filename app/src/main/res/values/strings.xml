@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">cul</string>
+    <string name="AllClean">AC</string>
+    <string name="Clean">c</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="faef">5</string>
+    <string name="six">6</string>
+    <string name="siven">7</string>
+    <string name="eight">8</string>
+    <string name="nien">9</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="point">.</string>
+    <string name="sub">-</string>
+    <string name="plus">+</string>
+    <string name="div">÷</string>
+    <string name="mult">×</string>
+    <string name="equl">=</string>
+    <string name="startBrikets">(</string>
+    <string name="endBrikets">)</string>
+    <string name="sqrt">sqrt</string>
+</resources>
